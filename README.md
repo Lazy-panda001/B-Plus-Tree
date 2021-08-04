@@ -16,4 +16,4 @@ It is kind of small version of database system. Where I have implemented the B+ 
 # Pre-assumptions :
   1. We are making a right biased tree. By this we mean if maxLimits are even we will split them in such a way that right sibling has one element greater.
 
-  2.Insertion is based on the primary key. Hence all the properties of the primary key has to be followed. No dublicate insertion has to be done with same primary key!
+  2. Insertion is based on the primary key. Hence all the properties of the primary key has to be followed. No dublicate insertion has to be done with same primary key!
