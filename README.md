@@ -10,7 +10,7 @@ I have implemented B+ tree using C++.
  3. File->create new project with existing code.
  4. Take a chill beer Run the code and Enjoy. (PS. Create an issue if you find any bug. Will be happy to fix it :)) HAPPY CODING !!
 # Example DataBase Schema :
- - see above picture
+ - see above picture pic.png
 # What is the project actually?
 It is kind of small version of database system. Where I have implemented the B+ Tree for fast and efficient access of files in the disc. Here database tuples will be stores as a .csv file in above folder corresponding FILE* will be saved in the leaf node. Above step is done to mimic the disc-block access.
 # Pre-assumptions :
