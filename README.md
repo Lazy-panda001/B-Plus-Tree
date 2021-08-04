@@ -1,7 +1,7 @@
 # B+ Tree
 I have implemented B+ tree using C++
 
- [] Search
- [] Insert
- [] Structuring the main Function
+ [x] Search
+ [x] Insert
+ [x] Structuring the main Function
  Delete
